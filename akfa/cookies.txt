@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-erakleskera.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1747223121|ngI7r17FVVbw
-erakleskera.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-erakleskera.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=ireland-pub_g
-
